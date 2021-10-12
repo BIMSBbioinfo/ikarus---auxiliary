@@ -11,7 +11,7 @@ For example:
 ```R
 Rscript F1_C.R ./Data
 ```
-All plots were generated with R versiob 4.0.5.
+All plots were generated with R version 4.0.5.
 
 
 ## Data
