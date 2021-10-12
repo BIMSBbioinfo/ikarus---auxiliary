@@ -1,5 +1,4 @@
 # Ikarus 
 ## Source code for figures
 
-
-here goes comprehensive explanation
+Github contains code to generate figures for [Ikarus](https://github.com/BIMSBbioinfo/ikarus) paper. 
